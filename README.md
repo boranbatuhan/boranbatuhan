@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<p align="center"><img src="./assets/Logo.gif" alt="batuhanboran" /></a> </p>
+<p align="center"><img src="./assets/Logo.gif" loading="eager" alt="batuhanboran" /></a> </p>
 
 
 <p align="center">
