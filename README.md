@@ -4,9 +4,9 @@
 <p align="center"><img src="./assets/Logo.gif" alt="batuhanboran" /></a> </p>
 
 
-<p align="center">
+
 I’m currently working on <a href="https://xpmsn.app" target="blank"> **xpmsn.app** </a> and <a href="https://slyweester.vercel.app" target="blank"> **slyweester** </a>
- </p>
+
 <div align="center">
 <li>⚡ I'm strong in : <strong>Vue3 and composition</strong></li>
 <li>🌱 I’m currently learning <strong>Nuxt,React</strong></li>
