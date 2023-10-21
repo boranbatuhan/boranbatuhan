@@ -5,12 +5,12 @@
 
 
 <p align="center">
-I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a> and <a href="https://slyweester.vercel.app" target="blank"> <strong>slyweester</strong> </a>
+I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a> and <a href="https://github.com/boranbatuhan/unuspes" target="blank"> <strong>Upcoming brand</strong> </a>
 </p>
 <div align="center">
-<li>⚡ I'm strong in : <strong>Vue3 and composition api</strong></li>
-<li>🌱 I’m currently learning <strong>Nuxt,React</strong></li>
-<li>💬 Ask me about <strong>Vue, TailwindCSS, Firebase</strong> </li>
+<li>⚡ I'm strong in : <strong>Vue3 Nuxt3</strong></li>
+<li>🌱 I’m currently learning <strong>Nuxt ecosystem, React</strong></li>
+<li>💬 Ask me about <strong>Vue3, Nuxt3, TailwindCSS, Firebase</strong> </li>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,6 +22,7 @@ I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>x
 <h3 align="center">I actively use</h3>
 <p align="center">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
  </a>  
@@ -41,7 +42,6 @@ I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>x
 <h3 align="center">Learning:</h3>
 <p align="center">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> 
 <a href="https://react.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="reactjs" width="40" height="40"/> </a> 
 
 
