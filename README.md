@@ -5,7 +5,7 @@
 
 
 <p align="center">
-I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a> and <a href="https://github.com/boranbatuhan/unuspes" target="blank"> <strong>Upcoming brand</strong> </a>
+I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a>
 </p>
 <div align="center">
 <li>⚡ I'm strong in : <strong>Vue3 Nuxt3</strong></li>
