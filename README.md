@@ -5,7 +5,7 @@
 
 
 <p align="center">
-I’m currently working on <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a>
+I’m currently working on updating  <a href="https://github.com/boranbatuhan/xpmsn" target="blank"> vue </a> based <a href="https://xpmsn.app" target="blank"> <strong>xpmsn.app</strong> </a> to <a href="https://github.com/boranbatuhan/xpmsn_nuxt" target="blank"> nuxt </a> , and I continue to develop new features
 </p>
 <div align="center">
 <li>⚡ I'm strong in : <strong>Vue3 Nuxt3</strong></li>
